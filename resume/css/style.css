@@ -209,9 +209,9 @@
 }
 
 .travelling {
-    background-image: url('../images/bagpack.jpeg');
-    width: 255px;
-    height: 190px;
+    background-image: url('../images/adv1.jpg');
+    width: 450px;
+    height: 300px;
     -webkit-transform: rotate(9deg);
     -moz-transform: rotate(9deg);
     -o-transform: rotate(9deg);
@@ -219,9 +219,9 @@
 }
 
 .trekking {
-    background-image: url('../images/adv.jpg');
-    width: 255px;
-    height: 190px;
+    background-image: url('../images/adv2.jpeg');
+    width: 450px;
+    height: 300px;
     -webkit-transform: rotate(9deg);
     -moz-transform: rotate(9deg);
     -o-transform: rotate(9deg);
@@ -230,7 +230,7 @@
 
 .reading {
     background-image: url('../images/reading.jpeg');
-    width: 255px;
+    width: 280px;
     height: 190px;
     -webkit-transform: rotate(-9deg);
     -moz-transform: rotate(-9deg);
